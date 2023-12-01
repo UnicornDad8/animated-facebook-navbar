@@ -1,3 +1,16 @@
+## 🧐 Animated Facebook Navbar
+
+> This is a page made with JSX and CSS, we made super smooth animations that resembles the original facebook navigation and dropdowns.
+
+![screenshot](./animated-facebook-navbar.png)
+
+## 🔧 Built With
+
+- JSX
+- CSS (vanilla)
+- CSSTransitions
+- Next.Js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
